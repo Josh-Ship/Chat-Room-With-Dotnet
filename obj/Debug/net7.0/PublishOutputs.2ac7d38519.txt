@@ -1,0 +1,8 @@
+/home/josh/Repos/Chat-Room-With-Dotnet/bin/Debug/net7.0/publish/Chat-Room-With-Dotnet
+/home/josh/Repos/Chat-Room-With-Dotnet/bin/Debug/net7.0/publish/appsettings.Development.json
+/home/josh/Repos/Chat-Room-With-Dotnet/bin/Debug/net7.0/publish/appsettings.json
+/home/josh/Repos/Chat-Room-With-Dotnet/bin/Debug/net7.0/publish/libman.json
+/home/josh/Repos/Chat-Room-With-Dotnet/bin/Debug/net7.0/publish/Chat-Room-With-Dotnet.dll
+/home/josh/Repos/Chat-Room-With-Dotnet/bin/Debug/net7.0/publish/Chat-Room-With-Dotnet.deps.json
+/home/josh/Repos/Chat-Room-With-Dotnet/bin/Debug/net7.0/publish/Chat-Room-With-Dotnet.runtimeconfig.json
+/home/josh/Repos/Chat-Room-With-Dotnet/bin/Debug/net7.0/publish/Chat-Room-With-Dotnet.pdb

@@ -29,3 +29,4 @@
 /home/josh/Repos/Chat-Room-With-Dotnet/obj/Debug/net7.0/Chat-Room-With-Dotnet.pdb
 /home/josh/Repos/Chat-Room-With-Dotnet/obj/Debug/net7.0/Chat-Room-With-Dotnet.genruntimeconfig.cache
 /home/josh/Repos/Chat-Room-With-Dotnet/obj/Debug/net7.0/ref/Chat-Room-With-Dotnet.dll
+/home/josh/Repos/Chat-Room-With-Dotnet/bin/Debug/net7.0/libman.json

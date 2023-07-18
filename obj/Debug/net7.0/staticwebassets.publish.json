@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "Hash": "Ol4Sg5jiq8Fq5UP/nac9y9xtceWK9a9dot9rWpTG4QQ=",
+  "Hash": "J8fjdkfXbL1NfRz7TFTmWKeNTh23KUyDz4jWrqIzVQE=",
   "Source": "Chat-Room-With-Dotnet",
   "BasePath": "_content/Chat-Room-With-Dotnet",
   "Mode": "Default",
-  "ManifestType": "Build",
+  "ManifestType": "Publish",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {

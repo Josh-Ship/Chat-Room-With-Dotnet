@@ -7,8 +7,4 @@
     <RootNamespace>Chat_Room_With_Dotnet</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Microsoft.AspNet.SignalR" Version="2.4.3" />
-  </ItemGroup>
-
 </Project>

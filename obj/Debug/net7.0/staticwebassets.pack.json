@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/home/josh/Repos/Chat-Room-With-Dotnet/wwwroot/js/signalr/dist/browser/signalr.js",
+      "PackagePath": "staticwebassets/js/signalr/dist/browser/signalr.js"
+    },
+    {
       "Id": "/home/josh/Repos/Chat-Room-With-Dotnet/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
