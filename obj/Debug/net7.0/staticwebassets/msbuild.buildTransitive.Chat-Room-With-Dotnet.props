@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Chat-Room-With-Dotnet.props" />
+</Project>
